@@ -1,5 +1,3 @@
-<a href="#" style="display:flex; justify-content: center; align-items: center;"><img width="25%" height="auto" src="icon.jpg" height="175px"/></a>
-
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Chandrakant here</h1>
 <h3 align="center">I'm a Full Stack Developer from India.</h3>
 

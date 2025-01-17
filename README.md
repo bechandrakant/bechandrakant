@@ -4,17 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Frontend Projects](https://github.com/bechandrakant/frontend-projects)**
-
-- 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/bechandrakant/dsa)**.
-
-<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://bechandrakant.github.io)** -->
-
-- 📫 Reach me at **chandrakantsavvy@gmail.com**
-
-- ⚡ Fun fact **I am a FIDE rated chess player.**
+- Fullstack engineer with Frontend focus
+- React is primary frontend tech stack
+- Backend have worked with Node + Express and Java + Springboot.
 
 ## 🚀 Languages and Tools:
 
